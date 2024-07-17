@@ -8,7 +8,7 @@ I am a backend developer who loves coding!
 
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [abdelrhmansayed122003@gmail.com](mailto:abdelrhmansayed122003@gmail.com)
-* 🧠  I'm learning Devops Engineering
+* 🧠  I'm learning Linux Commands
 * ⚡  I Am Zoombie, Tell Everyone
 
 <a href="https://www.github.com/Abdelrahman-Sayed-CS" target="_blank" rel="noreferrer"><img
